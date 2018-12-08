@@ -1,6 +1,6 @@
 // Canary test
 
-describe('', () => {
+describe('Canary test', () => {
     test('Test configured', () => {
         expect(true).toBe(true);
     });
